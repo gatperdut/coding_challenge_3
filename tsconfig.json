@@ -1,0 +1,16 @@
+{
+  "include": [ "./src/**/*.ts" ],
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ES2020",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "removeComments": false,
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true
+  }
+}

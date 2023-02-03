@@ -1,0 +1,16 @@
+body {
+	background-color: #CCCCCC;
+}
+
+#onlim_coding-challenge-3 {
+	text-align: center;
+}
+
+.fps {
+	position: fixed;
+	left: 5px;
+	bottom: 5px;
+	color: #FF0000;
+	font-family: monospace;
+	font-size: large;
+}
